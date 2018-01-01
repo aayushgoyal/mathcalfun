@@ -1,13 +1,8 @@
-#mathcalfun
+# mathcalfun
 
-Calculate values of mathematical functions and operators easily
+Calculate values of mathematical functions and operators easily.
 
-##Docs
-
-* [Github](https://github.com/aayushgoyal/mathcalfun) for source code.
-* Visit the [Wiki](https://github.com/aayushgoyal/mathcalfun/wiki)
-
-##Installation
+## Installation
 
 Installation is done using the [npm install command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
@@ -15,7 +10,7 @@ Installation is done using the [npm install command](https://docs.npmjs.com/gett
 npm install mathcalfun
 ```
 
-##Usage
+## Usage
 
 ```
 var math = require("mathcalfun");
@@ -26,7 +21,3 @@ console.log(math.divInt(20, 3));
 console.log(math.subInt(6, 3));
 ```
 
-
-##People
-
-The author of this package is [Aayush Goyal](https://github.com/aayushgoyal)
