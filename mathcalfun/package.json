@@ -1,0 +1,30 @@
+{
+    "name": "mathcalfun",
+    "version": "0.0.2",
+    "description": "This package is useful for all type of mathematical calculation and functions.",
+    "main": "./lib/index.js",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/aayushgoyal/mathcalfun"
+    },
+    "keywords": [
+    "maths, calculations, functions"
+    ],
+    "author": {
+    "name": "Aayush Goyal"
+    },
+    "readme": "# ",
+    "readmeFilename": "README.md",
+    "dependencies": {},
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+    "node": "*"
+    },
+    "bugs": {
+    "url": "https://github.com/aayushgoyal/mathcalfun/issues"
+    },
+    "homepage": "https://github.com/aayushgoyal/mathcalfun",
+    "_id": "mathcalfun@0.0.2",
+    "scripts": {}
+    }
